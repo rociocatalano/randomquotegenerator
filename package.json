@@ -1,5 +1,6 @@
 {
     "name": "randomquotegenerator",
+    "homepage": "https://rociocatalano.github.io/randomquotegenerator/",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
